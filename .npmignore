@@ -1,0 +1,25 @@
+# test
+jest.config.*
+test
+__test__
+tests
+__tests__
+
+# changelog
+CHANGELOG.md
+changelog.md
+
+# demos
+examples
+docs
+
+# rollup
+rollup.config.*
+
+# eslint
+.eslintrc.*
+.eslintrc
+.eslintignore
+
+# changeset
+.changeset

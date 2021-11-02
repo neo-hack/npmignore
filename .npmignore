@@ -23,3 +23,9 @@ rollup.config.*
 
 # changeset
 .changeset
+
+# env
+.env*
+
+# ts
+tsconfig.json
